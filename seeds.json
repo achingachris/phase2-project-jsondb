@@ -10,7 +10,8 @@
             "date_spotted": "2022-10-01",
             "airport_spotted": "JKIA",
             "destination": "Paris",
-            "rate": 74
+            "rate": 74,
+            "likes": 0
         },
         {
             "id": 8944,
@@ -22,7 +23,8 @@
             "date_spotted": "2022-11-05",
             "airport_spotted": "DXB",
             "destination": "Amsterdam",
-            "rate": 33
+            "rate": 33,
+            "likes": 0
         }
     ]
 }
